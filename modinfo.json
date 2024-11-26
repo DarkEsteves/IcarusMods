@@ -1,0 +1,16 @@
+{
+    "mods": [
+          {
+            "name": "Dark MoreHardStorms",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Weather a little...hard",
+            "imageURL": "",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0"
+            }
+        }
+    ]
+}
