@@ -5,6 +5,6 @@ Mods for Icarus Game
 
 MoreHardStorms v1.0
 
--More Storms , more time and more harder..
+-More Harder Storms , more time..
 
 -Go prepared when go out
