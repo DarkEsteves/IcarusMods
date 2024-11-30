@@ -22,3 +22,14 @@ AdvancedEnergy v1.0
 
 
 -----------------------------------------------------------
+
+
+WorkShop v1.0
+
+30/12/24
+
+-Workshop tab with a DexterHaven T5 Artemis armor, modules and some goodies ..
+
+
+
+-----------------------------------------------------------
