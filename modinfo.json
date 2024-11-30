@@ -9,7 +9,7 @@
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0"
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0.pak"
             }
         },
           {
@@ -21,7 +21,19 @@
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-AdvancedEnergy_v1.0"
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-AdvancedEnergy_v1.0.pak"
+            }
+        },
+          {
+            "name": "Dark Workshop v1.0",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Workshop tab with some goodies.",
+            "imageURL": "",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop_v1.0.pak"
             }
         }
     ]
