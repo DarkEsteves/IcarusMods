@@ -1,7 +1,7 @@
 {
     "mods": [
           {
-            "name": "Dark MoreHardStorms",
+            "name": "Dark MoreHardStorms v1.0",
             "author": "DarkAngel",
             "version": "1.0",
             "compatibility": "All",
@@ -10,6 +10,18 @@
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
                 "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0"
+            }
+        },
+          {
+            "name": "Dark AdvancedEnergy v1.0",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Upgrades the WaterWheel and the electric WaterPump to Advanced version on the Machining Bench.",
+            "imageURL": "",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-AdvancedEnergy_v1.0"
             }
         }
     ]
