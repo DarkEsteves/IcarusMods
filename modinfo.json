@@ -25,15 +25,15 @@
             }
         },
           {
-            "name": "Dark Workshop v1.0",
+            "name": "Dark Workshop v1.1",
             "author": "DarkAngel",
-            "version": "1.0",
+            "version": "1.1",
             "compatibility": "All",
             "description": "Workshop tab with the T5 Artemis armor, modules and some goodies ..",
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop_v1.0.pak"
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop_v1.1.pak"
             }
         }
     ]
