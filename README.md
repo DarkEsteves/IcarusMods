@@ -33,7 +33,10 @@ WorkShop v1.0
 7/12/24
 
 -Prices Reduced a bit
+
 -Lava Backpack now is chargeable in charging station, when charged give Warm Aura
+
 -Added a Lantern, animal fat powered, same cost to repair with more power..
+
 
 -----------------------------------------------------------
