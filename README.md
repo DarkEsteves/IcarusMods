@@ -1,9 +1,11 @@
-Icarus Mods
-Mods for Icarus Game
+  Icarus Mods            ///////////////
+  Mods for Icarus Game  ////////////////
+                       ////////////////
+///////////////////////////////////////
 
 30/11/24
 
-MoreHardStorms v1.0
+--- MoreHardStorms v1.0
 
 -More Harder Storms , more time..
 
@@ -13,7 +15,7 @@ MoreHardStorms v1.0
 ------------------------------------------------------------
 
 
-AdvancedEnergy v1.0
+--- AdvancedEnergy v1.0
 
 30/11/24
 
@@ -24,11 +26,13 @@ AdvancedEnergy v1.0
 -----------------------------------------------------------
 
 
-WorkShop v1.0
+--- WorkShop v1.0
 
 30/11/24
 
 -Workshop tab with a DexterHaven T5 Artemis armor, modules and some goodies ..
+
+--- WorkShop v1.1
 
 7/12/24
 
