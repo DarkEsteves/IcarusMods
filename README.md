@@ -24,6 +24,8 @@
 
 -A bag to carry most of your foods, the contents not sopil, craft in advanced armor bench. 
 
+Thanks to Jimk72 and Apex for all the help
+
 
 
 -----------------------------------------------------------
