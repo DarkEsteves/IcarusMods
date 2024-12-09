@@ -1,7 +1,7 @@
 {
     "mods": [
           {
-            "name": "Dark MoreHardStorms v1.0",
+            "name": "Dark-MoreHardStorms v1.0",
             "author": "DarkAngel",
             "version": "1.0",
             "compatibility": "All",
@@ -13,7 +13,7 @@
             }
         },
           {
-            "name": "Dark AdvancedEnergy v1.0",
+            "name": "Dark-AdvancedEnergy v1.0",
             "author": "DarkAngel",
             "version": "1.0",
             "compatibility": "All",
@@ -25,7 +25,19 @@
             }
         },
           {
-            "name": "Dark Workshop v1.1",
+            "name": "Dark-Lunch Bag",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "A Lunch Bag to carry most of your foods, the Items not spoil and can be crafted at advanced armor bench.",
+            "imageURL": "",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Lunch_Bag.pak"
+            }
+        },
+          {
+            "name": "Dark-Workshop v1.1",
             "author": "DarkAngel",
             "version": "1.1",
             "compatibility": "All",
