@@ -18,6 +18,17 @@
 ------------------------------------------------------------
 
 
+--- Lunch Bag
+
+09/12/24
+
+-A bag to carry most of your foods, the contents not sopil, craft in advanced armor bench. 
+
+
+
+-----------------------------------------------------------
+
+
 --- AdvancedEnergy v1.0
 
 30/11/24
