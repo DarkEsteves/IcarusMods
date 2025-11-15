@@ -42,21 +42,19 @@ Thanks to Jimk72 and Apex for all the help
 -----------------------------------------------------------
 
 
---- WorkShop v1.0
-
+--- Dark-WorkShop v1.0
 30/11/24
 
 -Workshop tab with a DexterHaven T5 Artemis armor, modules and some goodies ..
 
---- WorkShop v1.1
-
+--- Dark-WorkShop v1.1
 7/12/24
 
 -Prices Reduced a bit
 -Lava Backpack now is chargeable in charging station, when charged give Warm Aura
 -Added a Lantern, animal fat powered, same cost to repair with more power..
 
---- WorkShop 1.2
+--- Dark-WorkShop 1.2
 13/11/25 
 
 - 3 new modules added: Sneaky Module, Stamina Module and Soldier Module.
@@ -64,7 +62,7 @@ Thanks to Jimk72 and Apex for all the help
 - Added 3 more items : Xigo "Jack" Axe, Xigo "Hertz" Pickaxe and Xigo "Shimmer" Knife
 - Reordered things and rebalance prices and mofifiers
 
---- WorkShop 1.2.1
+--- Dark-WorkShop 1.2.1
 15/11/25 
 
 - Corrected a issue that the bows dont detect any arrows , just the Teseus .
