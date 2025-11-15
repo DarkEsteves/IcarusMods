@@ -56,11 +56,16 @@ Thanks to Jimk72 and Apex for all the help
 -Lava Backpack now is chargeable in charging station, when charged give Warm Aura
 -Added a Lantern, animal fat powered, same cost to repair with more power..
 
----WorkShop 1.2
+--- WorkShop 1.2
+13/11/25 
 
 - 3 new modules added: Sneaky Module, Stamina Module and Soldier Module.
 - Added my Lunch Bag ("Xigo "Hunger" Lunch Bag)
 - Added 3 more items : Xigo "Jack" Axe, Xigo "Hertz" Pickaxe and Xigo "Shimmer" Knife
 - Reordered things and rebalance prices and mofifiers
 
+--- WorkShop 1.2.1
+15/11/25 
+
+- Corrected a issue that the bows dont detect any arrows , just the Teseus .
 -----------------------------------------------------------
