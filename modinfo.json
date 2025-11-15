@@ -39,9 +39,9 @@
           {
             "name": "Dark-Workshop",
             "author": "DarkAngel",
-            "version": "1.2",
+            "version": "1.2.1",
             "compatibility": "All",
-            "description": "Workshop tab with the T5 Artemis armor, modules and some goodies ..",
+            "description": "Workshop tab with Revived T5 Artemis Armor from Dexterhaven, modules and some other goodies ...",
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
@@ -50,4 +50,5 @@
         }
     ]
 }
+
 
