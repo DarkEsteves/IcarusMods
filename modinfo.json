@@ -39,7 +39,7 @@
           {
             "name": "Dark-Workshop",
             "author": "DarkAngel",
-            "version": "1.2.1",
+            "version": "1.3",
             "compatibility": "All",
             "description": "Workshop tab with Revived T5 Artemis Armor from Dexterhaven, modules and some other goodies ...",
             "imageURL": "",
@@ -50,5 +50,6 @@
         }
     ]
 }
+
 
 
