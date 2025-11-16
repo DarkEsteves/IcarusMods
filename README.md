@@ -45,7 +45,7 @@ Thanks to Jimk72 and Apex for all the help
 --- Dark-WorkShop v1.0
 30/11/24
 
--Workshop tab with a DexterHaven T5 Artemis armor, modules and some goodies ..
+-Initial Version
 
 --- Dark-WorkShop v1.1
 7/12/24
@@ -65,5 +65,10 @@ Thanks to Jimk72 and Apex for all the help
 --- Dark-WorkShop 1.2.1
 15/11/25 
 
-- Corrected a issue that the bows dont detect any arrows , just the Teseus .
+- Fixed a issue that the Bows and Crossbows dont detect any arrows and bolts , just the Teseus .
+
+--- Dark-WorkShop 1.3
+16/11/25
+
+- Fixed a issue some of Items dont come to the planet after call it .
 -----------------------------------------------------------
