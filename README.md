@@ -77,7 +77,7 @@ Thanks to Jimk72 and Apex for all the help
 --- Dark-ElectricFabricator v1.0
 26/11/25
 
--Initial Version
+- Initial Version
 
 -----------------------------------------------------------
 
