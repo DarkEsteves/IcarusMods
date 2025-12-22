@@ -47,12 +47,16 @@ Thanks to Jimk72 and Apex for all the help
 
 -Initial Version
 
+-----------------------------------------
+
 --- Dark-WorkShop v1.1
 7/12/24
 
 -Prices Reduced a bit
 -Lava Backpack now is chargeable in charging station, when charged give Warm Aura
 -Added a Lantern, animal fat powered, same cost to repair with more power..
+
+-----------------------------------------
 
 --- Dark-WorkShop 1.2
 13/11/25 
@@ -62,19 +66,26 @@ Thanks to Jimk72 and Apex for all the help
 - Added 3 more items : Xigo "Jack" Axe, Xigo "Hertz" Pickaxe and Xigo "Shimmer" Knife
 - Reordered things and rebalance prices and mofifiers
 
+-----------------------------------------
+
 --- Dark-WorkShop 1.2.1
+
 15/11/25 
 
 - Fixed a issue that the Bows and Crossbows dont detect any arrows and bolts , just the Teseus .
 
+-----------------------------------------
 
 --- Dark-WorkShop 1.3
+
 16/11/25
 
 - Fixed a issue some of Items dont come to the planet after call it .
 
+----------------------------------------
 
 --- Dark-WorkShop 1.4
+
 22/12/25
 
 - Reroute of some items
@@ -83,11 +94,13 @@ Thanks to Jimk72 and Apex for all the help
 - Change some modules stats
 - Reajusted the cost of the items   .
 -----------------------------------------------------------
+///////////////////////////////////////////////////////////
+------------------------------------------------------------
 
 --- Dark-ElectricFabricator v1.0
 26/11/25
 
 - Initial Version
 
------------------------------------------------------------
+---------------------------------------
 
