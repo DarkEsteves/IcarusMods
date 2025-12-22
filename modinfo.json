@@ -54,7 +54,7 @@ x{
             "version": "1.4",
             "compatibility": "All",
             "description": "Workshop tab with Armour, modules and some other goodies ..",
-            "imageURL": "",
+            "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
                 "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop.EXMODZ"
@@ -62,6 +62,7 @@ x{
         }
     ]
 }
+
 
 
 
