@@ -67,11 +67,21 @@ Thanks to Jimk72 and Apex for all the help
 
 - Fixed a issue that the Bows and Crossbows dont detect any arrows and bolts , just the Teseus .
 
+
 --- Dark-WorkShop 1.3
 16/11/25
 
 - Fixed a issue some of Items dont come to the planet after call it .
 
+
+--- Dark-WorkShop 1.4
+22/12/25
+
+- Reroute of some items
+- Added an new and complete wereable armor
+- Changed names and icons of the modules and lunchbox
+- Change some modules stats
+- Reajusted the cost of the items   .
 -----------------------------------------------------------
 
 --- Dark-ElectricFabricator v1.0
