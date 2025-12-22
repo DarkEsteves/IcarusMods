@@ -1,4 +1,4 @@
-{
+x{
     "mods": [
           {
             "name": "Dark-MoreHardStorms v1.0",
@@ -57,11 +57,12 @@
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop.pak"
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop.EXMODZ"
             }
         }
     ]
 }
+
 
 
 
