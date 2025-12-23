@@ -1,6 +1,6 @@
 {
     "mods": [
-          {
+        {
             "name": "Dark-MoreHardStorms v1.0",
             "author": "DarkAngel",
             "version": "1.0",
@@ -12,7 +12,7 @@
                 "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0.pak"
             }
         },
-          {
+        {
             "name": "Dark-AdvancedEnergy v1.0",
             "author": "DarkAngel",
             "version": "1.0",
@@ -24,7 +24,7 @@
                 "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-AdvancedEnergy_v1.0.pak"
             }
         },
-          {
+        {
             "name": "Dark-Lunch Bag",
             "author": "DarkAngel",
             "version": "1.0",
@@ -36,7 +36,7 @@
                 "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Lunch_Bag.pak"
             }
         },
-          {
+        {
             "name": "Dark-ElectricFabricator",
             "author": "DarkAngel",
             "version": "1.0",
@@ -48,7 +48,7 @@
                 "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-ElectricFabricator.pak"
             }
         },
-          {
+        {
             "name": "Dark-Workshop",
             "author": "DarkAngel",
             "version": "1.4",
