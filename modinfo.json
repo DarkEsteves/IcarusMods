@@ -13,30 +13,6 @@
             }
         },
         {
-            "name": "Dark-AdvancedEnergy v1.0",
-            "author": "DarkAngel",
-            "version": "1.0",
-            "compatibility": "All",
-            "description": "Upgrades the WaterWheel, the biofuel and electric WaterPump to Advanced version on the Machining Bench.",
-            "imageURL": "",
-            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
-            "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-AdvancedEnergy_v1.0.pak"
-            }
-        },
-        {
-            "name": "Dark-Lunch Bag",
-            "author": "DarkAngel",
-            "version": "1.0",
-            "compatibility": "All",
-            "description": "A Lunch Bag to carry most of your foods, the Items not spoil and can be crafted at advanced armor bench.",
-            "imageURL": "",
-            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
-            "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Lunch_Bag.pak"
-            }
-        },
-        {
             "name": "Dark-ElectricFabricator",
             "author": "DarkAngel",
             "version": "1.0",
@@ -62,6 +38,7 @@
         }
     ]
 }
+
 
 
 
