@@ -1,15 +1,15 @@
 {
     "mods": [
         {
-            "name": "Dark-MoreHardStorms v1.0",
+            "name": "Dark-MoreHardStorms",
             "author": "DarkAngel",
-            "version": "1.0",
+            "version": "2.0",
             "compatibility": "All",
-            "description": "Weather a little more...hard",
+            "description": "An immersive weather overhaul that reshapes Icarus' climate. Storms are more frequent, last longer, and strike harder, creating a hostile and unpredictable world where timing, shelter, and preparation matter more than ever.",
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "pak": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms_v1.0.pak"
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreHardStorms.EXMODZ"
             }
         },
         {
@@ -38,6 +38,7 @@
         }
     ]
 }
+
 
 
 
