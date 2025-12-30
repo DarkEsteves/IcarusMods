@@ -13,6 +13,18 @@
             }
         },
         {
+            "name": "Dark-UndersuitsPlus",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Dark-UndersuitsPlus enhances existing undersuits with improved stats and better balance, making them more useful throughout progression without breaking immersion, compatibility and original identity.",
+            "imageURL": "",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-UndersuitsPlus.EXMODZ"
+            }
+        },
+        {
             "name": "Dark-ElectricFabricator",
             "author": "DarkAngel",
             "version": "1.0",
@@ -38,6 +50,7 @@
         }
     ]
 }
+
 
 
 
