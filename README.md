@@ -2,16 +2,24 @@
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
 
---- MoreHardStorms v1.0
+--- Dark-MoreHardStorms v1.0
 30/11/24
 
 -----------------------------
 
---- MoreHardStorms v2.0
+--- Dark-MoreHardStorms v2.0
 30/12/25
 
 
 - An immersive weather overhaul that reshapes Icarus' climate. Storms are more frequent, last longer, and strike harder, creating a hostile and unpredictable world where timing, shelter, and preparation matter more than ever.
+-----------------------------------------------------------
+///////////////////////////////////////////////////////////
+-----------------------------------------------------------
+
+--- Dark-UndersuitsPlus v1.0
+30/11/24
+
+- Dark-UndersuitsPlus enhances existing undersuits with improved stats and better balance, making them more useful throughout progression without breaking immersion, compatibility and original identity.
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
