@@ -15,7 +15,6 @@
 --- Dark-MoreHardStorms v2.0
 30/12/25
 
-
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
@@ -68,6 +67,7 @@
 
 --- Dark-WorkShop 1.3
 16/11/25
+
 - Fixed a issue some of Items dont come to the planet after call it .
 
 ----------------------------
@@ -91,14 +91,12 @@
 
 --- Dark-ElectricFabricator v1.0
 26/11/25
-
--Initial Version
+- Initial Version
 
 ----------------------------
 
 --- Dark-ElectricFabricator v1.5
 01/01/26
-
 - Banner update
 - Change from .pak to .EXMODZ
 
