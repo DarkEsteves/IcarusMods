@@ -55,7 +55,7 @@
 - 3 new modules added: Sneaky Module, Stamina Module and Soldier Module.
 - Added my Lunch Bag ("Xigo "Hunger" Lunch Bag)
 - Added 3 more items : NovaTek "Flux" Axe, NovaTek "Overdrive" Pickaxe and NovaTek "Quantum" Knife
-- Reordered things and rebalance prices and mofifiers
+- Reordered things and rebalance prices and modifiers
 
 ----------------------------
 
