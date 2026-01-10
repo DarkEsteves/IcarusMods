@@ -3,7 +3,7 @@
         {
             "name": "Dark-MoreHardStorms",
             "author": "DarkAngel",
-            "version": "2.0",
+            "version": "2.1",
             "compatibility": "All",
             "description": "An immersive weather overhaul that reshapes Icarus' climate. Storms are more frequent, last longer, and strike harder, creating a hostile and unpredictable world where timing, shelter, and preparation matter more than ever.",
             "imageURL": "",
@@ -50,6 +50,7 @@
         }
     ]
 }
+
 
 
 
