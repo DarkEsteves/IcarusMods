@@ -67,7 +67,6 @@
 
 --- Dark-WorkShop 1.3
 16/11/25
-
 - Fixed a issue some of Items dont come to the planet after call it .
 
 ----------------------------
@@ -79,7 +78,13 @@
 - Changed names and icons of the modules and lunchbox
 - Change some modules stats
 - Reajusted the cost of the items
-  
+
+----------------------------
+
+--- Dark-WorkShop 1.5
+10/01/26
+- BackPacks renamed to prevent vanilla conflicts
+
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
