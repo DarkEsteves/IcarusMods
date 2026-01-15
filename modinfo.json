@@ -27,7 +27,7 @@
         {
             "name": "Dark-ElectricFabricator",
             "author": "DarkAngel",
-            "version": "1.5",
+            "version": "2.0",
             "compatibility": "All",
             "description": "Make the Fabricator need energy to work, as it should be from beginning, now the fabricator needs 1500 energy to work. And in adition have moved the waterwheel, Wind Tubine and Spline Tool Electricity to Tier 3.",
             "imageURL": "",
@@ -50,6 +50,7 @@
         }
     ]
 }
+
 
 
 
