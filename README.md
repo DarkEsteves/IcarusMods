@@ -110,6 +110,14 @@
 - Banner update
 - Change from .pak to .EXMODZ
 
+
+--- Dark-ElectricFabricator v2.0
+15/01/26
+
+- Change for the biofuel portable generator istead of the waterweel
+- Change the place of the portable generator and splite tool in the tecnologies tree
+- Make the portable generator produce 3000 energy units
+  
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
