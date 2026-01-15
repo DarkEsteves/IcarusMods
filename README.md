@@ -110,6 +110,7 @@
 - Banner update
 - Change from .pak to .EXMODZ
 
+----------------------------
 
 --- Dark-ElectricFabricator v2.0
 15/01/26
