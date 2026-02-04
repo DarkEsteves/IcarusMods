@@ -47,9 +47,21 @@
             "files": {
                 "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Workshop.EXMODZ"
             }
-        }
+        },
+        {
+            "name": "Dark-NewMetaExtractionTweaks",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "This mod rebalances and enhances the Meta-tier extraction equipment by improving power management, battery capacity, and crafting costs, making late-game devices more efficient and practical to use. Reduced battery capacity to 25000, crafting costs are rebalanced, the radar now needs meta power source, but the battery is now chargeable in the charging device that can now have 2 slots to charge and the extractor have 2 slots too to add batteries.",
+            "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-NewMetaExtractionTweaks.EXMODZ"
+            }
     ]
 }
+
 
 
 
