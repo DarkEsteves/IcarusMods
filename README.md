@@ -123,3 +123,49 @@
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
 
+## Description:
+
+Dark–NewMetaExtractionTweaks
+
+This mod rebalances and enhances the Meta-tier extraction equipment by improving power management, 
+battery capacity, and crafting costs, making late-game devices more efficient and practical to use.
+
+Changes included:
+
+
+🔋 Meta Power Source (Battery)
+
+Increased maximum stored energy to 25,000 units
+Can be charged in Charging Device
+
+Rebalanced costs:
+Research: 300 Credits
+Replication: 150 Credits
+
+⛏ Meta Extractor
+
+Gains 2 battery inventory slots
+
+
+📡 Meta Radar
+
+Adds battery slot support
+Works as an energy-powered device
+Generates energy at a rate of 10
+Can interact with generator-style UI
+Can transmute/charge Meta Power Sources
+
+
+⚙ Charging Device
+
+Can now have 2 slots for charging
+
+-----------------------------------------------------------
+
+## Mod Details:
+
+--- Dark-NewMetaExtractionTweaks v1.0
+04/02/26
+
+-----------------------------------------------------------
+
