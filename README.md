@@ -143,7 +143,7 @@ Changes included:
 
 🔋 Meta Power Source (Battery)
 
-Increased maximum stored energy to 25,000 units
+Decreased maximum stored energy to 25,000 units
 Can be charged in Charging Device
 
 Rebalanced costs:
@@ -161,12 +161,13 @@ Adds battery slot support
 Works as an energy-powered device
 Generates energy at a rate of 10
 Can interact with generator-style UI
-Can transmute/charge Meta Power Sources
+
 
 
 ⚙ Charging Device
 
 Can now have 2 slots for charging
+Can transmute/charge Meta Power Sources
 
 -----------------------------------------------------------
 
