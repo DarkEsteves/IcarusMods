@@ -4,7 +4,10 @@
 
 ## Description:
 
-- An immersive weather overhaul that reshapes Icarus climate. Storms are more frequent, last longer, and strike harder, creating a hostile and unpredictable world where timing, shelter, and preparation matter more than ever.
+- 
+Dark-MoreHardStorms makes ICARUS far more hostile by increasing storm frequency, duration, and intensity. Weather phases last much longer, high-tier storms are common, and clear skies are rare. Survival now depends on preparation, timing, and strong shelters.
+Longer storms, higher tiers, fewer clear skies — ICARUS becomes truly unforgiving.
+A brutal weather overhaul where storms last longer, hit harder, and rarely give you time to breathe.
 
 
 --- Dark-MoreHardStorms v1.0
