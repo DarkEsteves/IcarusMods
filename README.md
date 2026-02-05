@@ -50,16 +50,16 @@ A brutal weather overhaul where storms last longer, hit harder, and rarely give 
 
   
 --- Dark-WorkShop v1.0
---- 30/11/24
--Initial Version
+ 30/11/24
+- Initial Version
 
 -----------------------------
 
 --- Dark-WorkShop v1.1
 7/12/24
--Prices Reduced a bit
--Lava Backpack now is chargeable in charging station, when charged give Warm Aura
--Added a Lantern, animal fat powered, same cost to repair with more power..
+- Prices Reduced a bit
+- Lava Backpack now is chargeable in charging station, when charged give Warm Aura
+- Added a Lantern, animal fat powered, same cost to repair with more power..
 
 ----------------------------
 
