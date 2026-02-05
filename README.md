@@ -143,13 +143,14 @@ Changes included:
 
 🔋 Meta Power Source (Battery)
 
-   - Decreased maximum stored energy to 25,000 units
-   - Can be charged in Charging Device
+      - Decreased maximum stored energy to 25,000 units
+      - Can be charged in Charging Device
 
         Rebalanced costs:
 
    - Research: 300 Credits
    - Replication: 150 Credits
+
 
 ⛏ Meta Extractor
 
