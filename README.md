@@ -97,6 +97,12 @@ A brutal weather overhaul where storms last longer, hit harder, and rarely give 
 10/01/26
 - BackPacks renamed to prevent vanilla conflicts
 
+----------------------------
+
+--- Dark-WorkShop 1.5.1
+10/02/26
+
+- Unable to unlock Novatech Overdrive Pickaxe bug fixed .
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
