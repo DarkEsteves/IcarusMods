@@ -39,7 +39,7 @@
         {
             "name": "Dark-Workshop",
             "author": "DarkAngel",
-            "version": "1.5",
+            "version": "1.5.1",
             "compatibility": "All",
             "description": "Workshop tab with Armour, modules and some other goodies ..",
             "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
@@ -62,6 +62,7 @@
         }   
     ]
 }
+
 
 
 
