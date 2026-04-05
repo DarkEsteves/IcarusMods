@@ -33,12 +33,24 @@ A brutal weather overhaul where storms last longer, hit harder, and rarely give 
 
 ## Description:
 
-- Dark-UndersuitsPlus enhances existing undersuits with improved stats and better balance, making them more useful throughout progression without breaking immersion, compatibility and original identity
+- Dark-UndersuitsPlus enhances all undersuits by improving their stats and overall usefulness, while keeping their original role and balance intact.
+This mod is designed to make undersuits feel more rewarding throughout progression, especially in harsher environments and longer expeditions.
+Features
+
+-Improved undersuit stats
+
+-Better survivability and efficiency
+
+-Slots Changed
+
+-Fully compatible with vanilla progression
 
  
 --- Dark-UndersuitsPlus v1.0
 - 30/11/24
 
+--- Dark-UndersuitsPlus v1.1
+- 05/04/26
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
