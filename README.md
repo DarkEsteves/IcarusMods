@@ -143,7 +143,22 @@ Features
 - Change for the biofuel portable generator istead of the waterweel
 - Change the place of the portable generator and splite tool in the tecnologies tree
 - Make the portable generator produce 3000 energy units
-  
+
+----------------------------
+
+--- Dark-ElectricFabricator v3.0
+05/04/26
+
+- Change the Fabricator energy from 1500 to 2500
+- Added the Jimk72 Windmill Generator for more options more than the Biofuel Generator
+- Put the Jimk72 Windmill Generator in the tecnologies tree, so you need a tecnologies talent to unlock it
+- Modify the Repair Bench to only require 1000 energy but is no longer Optional 
+========================================================
+IMPORTANT: This version already ADDS the Jimk72 WindMill Generator in this last version , pay atention
+to comflicts for who have that mod already in the list . Jimk72 is not responsible to update this mod 
+despite his mod is implemented in mine (with his permission), It’s my responsibility to update my mod. 
+========================================================
+
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
