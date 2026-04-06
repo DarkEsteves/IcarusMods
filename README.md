@@ -156,7 +156,8 @@ Features
 ========================================================
 IMPORTANT: This version already ADDS the Jimk72 WindMill Generator in this last version , pay atention
 to comflicts for who have that mod already in the list . Jimk72 is not responsible to update this mod 
-despite his mod is implemented in mine (with his permission), It’s my responsibility to update my mod. 
+despite his mod is implemented in mine (with his permission), Credits for Jimk72 in your Windmill Generator and for let me use it,
+ It’s my responsibility to update my mod. 
 ========================================================
 
 -----------------------------------------------------------
