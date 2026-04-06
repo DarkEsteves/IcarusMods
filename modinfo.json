@@ -29,7 +29,7 @@
             "author": "DarkAngel",
             "version": "3.0",
             "compatibility": "All",
-            "description": "Make the Fabricator need energy to work, as it should be from beginning, now the fabricator needs 1500 energy to work. And in adition have moved the waterwheel, Wind Tubine and Spline Tool Electricity to Tier 3.",
+            "description": "Make the Fabricator need energy to work, as it should be from beginning, now the fabricator needs 2500 energy to work. And in adition have moved the Portable Biofuel Generator and Spline Tool Electricity to Tier 3, and added the Jimk72 Windmill Generator 1.4.",
             "imageURL": "",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
