@@ -166,10 +166,15 @@ despite his mod is implemented in mine (with his permission), Credits for Jimk72
 
 ## Description:
 
-Dark–NewMetaExtractionTweaks
+--- Dark-NewMetaExtractionTweaks v1.0
 
 This mod rebalances and enhances the Meta-tier extraction equipment by improving power management, 
 battery capacity, and crafting costs, making late-game devices more efficient and practical to use.
+-----------------------------------------------------------
+## Mod Details:
+
+--- Dark-NewMetaExtractionTweaks v1.0
+04/02/26
 
 Changes included:
 
@@ -204,11 +209,26 @@ Changes included:
    - Can transmute/charge Meta Power Sources
 
 -----------------------------------------------------------
-
-## Mod Details:
-
---- Dark-NewMetaExtractionTweaks v1.0
-04/02/26
-
+///////////////////////////////////////////////////////////
 -----------------------------------------------------------
+
+Dark-Bags.EXMODZ
+----------------------------------------------------------------------
+Mod Version: 1.0
+## Description:
+- Adds three specialized craftable bags to improve inventory management on Icarus.
+## Mod Details:
+-----------------------------------------------------------
+--- Dark-Bags v1.0
+22/04/26
+- Initial Version
+- Added Big Bag: 12 slots for heavy cargo, craftable at Advanced/Electric Armor Bench
+- Added Food Bag: 6 slots with reduced spoil rate, accepts all food types including soups, cooked meals, fish, animal feed and fridge items, craftable at Armor Bench/Advanced/Electric Armor Bench
+- Added Ammo Bag: 18 slots for all ammunition types including bullets, cartridges, arrows and bolts, craftable at Advanced/Electric Armor Bench
+-----------------------------------------------------------
+
+
+
+
+
 
