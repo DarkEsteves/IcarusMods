@@ -59,7 +59,19 @@
             "files": {
                 "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-NewMetaExtractionTweaks.EXMODZ"
             }
-        }   
+        },
+        {
+            "name": "Dark-Bags",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Adds three specialized bags to Icarus: a Big Bag for heavy cargo, a Food Bag to keep your provisions fresh, and an Ammo Bag for all your ammunition needs.",
+            "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Bags.EXMODZ"
+            }
+        }
     ]
 }
 
