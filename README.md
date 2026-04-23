@@ -225,6 +225,10 @@ Mod Version: 1.0
 - Added Big Bag: 12 slots for heavy cargo, craftable at Advanced/Electric Armor Bench
 - Added Food Bag: 6 slots with reduced spoil rate, accepts all food types including soups, cooked meals, fish, animal feed and fridge items, craftable at Armor Bench/Advanced/Electric Armor Bench
 - Added Ammo Bag: 18 slots for all ammunition types including bullets, cartridges, arrows and bolts, craftable at Advanced/Electric Armor Bench
+
+- --- Dark-Bags v1.1
+23/04/26
+- Removed icon changes that were mistakenly included in this mod, as they belong to the Dark-IconsChange mod
 -----------------------------------------------------------
 
 
