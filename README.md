@@ -114,7 +114,20 @@ Features
 --- Dark-WorkShop 1.5.1
 10/02/26
 
-- Unable to unlock Novatech Overdrive Pickaxe bug fixed .
+- Unable to unlock Novatech Overdrive Pickaxe bug fixed.
+
+----------------------------
+
+--- Dark-WorkShop 2.0
+26/04/2026
+
+- Reordering of most items
+- Added 2 new wearable armors ( Nebula & Pulse )
+- Nebula armor can also be crafted in the Prospect in the Electric Armor Bench
+- Changed the names of the Theseus Knife,Theseus Spear, Teseus Bolts and Teseus Arrows
+- Change icons and models (mesh) of the Helix "Quantum" arows and Helix "Sonic" bolts (former Teseus bolts and arrows) 
+- Adjust the cost of the Ion Armor to reflect the new DLC and new Armors
+- Complete new Modules Icons (better colors and quality)
 -----------------------------------------------------------
 ///////////////////////////////////////////////////////////
 -----------------------------------------------------------
