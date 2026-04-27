@@ -242,8 +242,29 @@ Mod Version: 1.0
 - --- Dark-Bags v1.1
 23/04/26
 - Removed icon changes that were mistakenly included in this mod, as they belong to the Dark-IconsChange mod
+
+-----------------------------------------------------------
+///////////////////////////////////////////////////////////
 -----------------------------------------------------------
 
+Dark-Shops.EXMODZ
+----------------------------------------------------------------------
+Mod Version: 1.0
+## Description:
+
+Dark-Shops is a balance mod focused on making the in-game shops and exchange systems fairer and more rewarding for the player's efforts.
+The vanilla shop prices and trade quantities often feel unrewarding, making it hard to justify selling or exchanging items. This mod adjusts the costs and quantities across all shop categories — Food Shop, Crops Exchange, Fish Exchange, Biomass Exchange, and Vestige Exchange — so that trading feels like a viable and satisfying part of your progression, rather than something to ignore.
+No new items or mechanics are added — just a cleaner, fairer economy that respects your time and effort as a prospector.
+----------------------------------------------------------------------
+## Mod Details:
+
+--- Dark-Shops v1.0
+27/04/26
+
+- Rebalanced prices across all shops
+- Improved trade quantities for exchanges
+- Selling and trading items is now a worthwhile activity
+-----------------------------------------------------------
 
 
 
