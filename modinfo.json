@@ -71,6 +71,18 @@
             "files": {
                 "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Bags.EXMODZ"
             }
+        },
+        {
+            "name": "Dark-Chops",
+            "author": "DarkAngel",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Rebalanced shop prices and trade quantities across all exchanges — because your work as a prospector deserves fair value.",
+            "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
+            "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
+            "files": {
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Chops.EXMODZ"
+            }
         }
     ]
 }
