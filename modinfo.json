@@ -73,7 +73,7 @@
             }
         },
         {
-            "name": "Dark-Chops",
+            "name": "Dark-Shops",
             "author": "DarkAngel",
             "version": "1.0",
             "compatibility": "All",
@@ -81,7 +81,7 @@
             "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Chops.EXMODZ"
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Shops.EXMODZ"
             }
         }
     ]
