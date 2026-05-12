@@ -266,7 +266,43 @@ No new items or mechanics are added — just a cleaner, fairer economy that resp
 - Selling and trading items is now a worthwhile activity
 -----------------------------------------------------------
 
+-----------------------------------------------------------
+///////////////////////////////////////////////////////////
+-----------------------------------------------------------
 
+Dark-MoreAttachments.EXMODZ
+----------------------------------------------------------------------
+Version: 1.0
+First release. Added 3 new armor attachments: AEGIS Envirosuit Expansion , AEGIS Envirosuit Expansion Mk II , Cargo Expansion, Exotic Radiation Dampener
+
+Week: All Weeks
+
+## Description:
+Three new craftable attachments at the Alteration Bench:
+
+  - AEGIS Envirosuit Expansion (Head slot) 
+          - 1 Module Slot
+
+  - AEGIS Envirosuit Expansion Mk II (Head slot)
+          - 2 Module Slot
+
+  - Exotic Radiation Dampener                        
+          - Radiation Resistance     +15%
+                                                 
+  - Cargo Expansion (Legs,Arms,Body) 
+          - Weight Capacity          +15
+          - Overencumbered Penalty   -10%
+          - Backpack Slots           +5
+          
+
+## Installation:
+  1. Install JimK72's Icarus Mod Manager
+     https://github.com/jimk72/IcarusModManager
+  2. Download Dark-MoreAttachments.EXMODZ
+  3. Import via Mod Manager
+  4. Add it to your installed modlist
+
+----------------------------------------------------------------------
 
 
 
