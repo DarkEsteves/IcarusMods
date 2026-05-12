@@ -61,15 +61,15 @@
             }
         },
         {
-            "name": "Dark-Bags",
+            "name": "Dark-MoreAttachments",
             "author": "DarkAngel",
-            "version": "1.1",
+            "version": "1.0",
             "compatibility": "All",
-            "description": "Adds three specialized bags to Icarus: a Big Bag for heavy cargo, a Food Bag to keep your provisions fresh, and an Ammo Bag for all your ammunition needs.",
+            "description": "Added 3 new armor attachments: AEGIS Envirosuit Expansion , AEGIS Envirosuit Expansion Mk II , Cargo Expansion, Exotic Radiation Dampener",
             "imageURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/DarkMods.png",
             "readmeURL": "https://github.com/DarkEsteves/IcarusMods/raw/main/README.md",
             "files": {
-                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-Bags.EXMODZ"
+                "exmodz": "https://github.com/DarkEsteves/IcarusMods/raw/main/Dark-MoreAttachments.EXMODZ"
             }
         },
         {
