@@ -27,7 +27,7 @@
         {
             "name": "Dark-ElectricFabricator",
             "author": "DarkAngel",
-            "version": "3.0",
+            "version": "3.5",
             "compatibility": "All",
             "description": "Make the Fabricator need energy to work, as it should be from beginning, now the fabricator needs 2500 energy to work. And in adition have moved the Portable Biofuel Generator and Spline Tool Electricity to Tier 3, and added the Jimk72 Windmill Generator 1.4.",
             "imageURL": "",
