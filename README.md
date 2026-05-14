@@ -165,7 +165,15 @@ Features
 - Change the Fabricator energy from 1500 to 2500
 - Added the Jimk72 Windmill Generator for more options more than the Biofuel Generator
 - Put the Jimk72 Windmill Generator in the tecnologies tree, so you need a tecnologies talent to unlock it
-- Modify the Repair Bench to only require 1000 energy but is no longer Optional 
+- Modify the Repair Bench to only require 1000 energy but is no longer Optional
+
+----------------------------
+
+  --- Dark-ElectricFabricator v3.5
+14/05/26
+
+- Updated the Jimk72 Windmill Generator to version 1.5
+- Fixed the biofuel generator talent, now its properly connected to the tree
 ========================================================
 IMPORTANT: This version already ADDS the Jimk72 WindMill Generator in this last version , pay atention
 to comflicts for who have that mod already in the list . Jimk72 is not responsible to update this mod 
